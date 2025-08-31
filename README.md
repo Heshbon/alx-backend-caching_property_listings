@@ -1,4 +1,4 @@
-# ALX Backend Caching Property Listings
+# Caching in Django
 
 A Django-based property listing application demonstrating advanced caching strategies with Redis and PostgreSQL.
 
