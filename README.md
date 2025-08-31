@@ -102,8 +102,8 @@ docker build -t alx-backend-caching_property_listings .
 
 Contributions are welcome! Please:
 
-1. Fork the repository
-2. Create a feature branch
-3. Implement changes
-4. Add tests
-5. Submit pull request
+1. Fork the repository.
+2. Create a feature branch.
+3. Implement changes.
+4. Add tests.
+5. Submit pull request.
